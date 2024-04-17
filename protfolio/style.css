@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Ubuntu:ital,wght@1,300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #14131A;
+}
+button{
+    border-radius: 6px;
+    padding: 0.4vh;
+    margin-top: 2vh;
+    color: white;
+    margin-left: 178vh;
+    background-color: rgba(53, 224, 53, 0.533);
+    border: none;
+    
+}
+
